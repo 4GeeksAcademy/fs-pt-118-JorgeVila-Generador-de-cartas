@@ -1,1 +1,37 @@
+body {
+    height: auto;
+    background-color: green;
+}
 
+
+#container {
+
+    background-color: aliceblue;
+    border: solid 3px black;
+    border-radius: 1rem;
+}
+
+
+#simboloIzquierdo {
+    text-align: start;
+    color: black;
+    font-size: 4rem;
+    padding-left: 1rem;
+}
+
+#NumeroCentral {
+    text-align: center;
+    align-content: center;
+    color: black;
+    height: 10rem;
+    font-size: 4rem;
+}
+
+#simboloDerecho {
+    text-align: start;
+    color: black;
+    font-size: 4rem;
+    transform: rotate(180deg);
+    padding-left: 1rem;
+
+}
